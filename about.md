@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-I work in finance and have a healthy appetite for learning and experiencing new things.
+I work in finance and have a healthy appetite for learning new things.
 
 ### More Information
 
